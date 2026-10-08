@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/jiliuvpn-banner.png" alt="Network Connection Guide">
-</p>
 
 <h1 align="center">Network Connection Guide</h1>
 
